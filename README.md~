@@ -22,7 +22,7 @@ Table down below is required setting for each project. Using  virtual env is rec
 ## Preparation
 
 Our repository only consists of task files.  
-To train from scratch, see Preprocessing section.
+To train from scratch(ASE) see Preprocessing section.
 
  
 
@@ -30,8 +30,7 @@ To train from scratch, see Preprocessing section.
 ## Preprocessing
 
 All motion data used were from [CMU]()
-We used data that were labeled as boxing and locomotion.
 
- 
+  
 
 ## 
