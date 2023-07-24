@@ -27,7 +27,7 @@ To train from scratch, see Preprocessing section.
  
 
 
-## Preprocessing
+### Preprocessing
 
 All motion data used were from [CMU]()
 We used data that were labeled as boxing and locomotion.
